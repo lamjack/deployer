@@ -3,3 +3,6 @@
 .php_cs.cache
 *.phar
 phpunit.xml
+
+/composer.lock
+/.idea
